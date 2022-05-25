@@ -17,7 +17,7 @@ KeyDown=False
 screen = pygame.display.set_mode((400,400))
 
 # 设置窗口的标题，即游戏名称
-pygame.display.set_caption('hello world')
+pygame.display.set_caption('乱弹琴')
 
 # 引入字体类型
 f = pygame.font.Font('C:/Windows/Fonts/simhei.ttf',50)
